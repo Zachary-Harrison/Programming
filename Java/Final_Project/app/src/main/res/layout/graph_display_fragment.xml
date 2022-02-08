@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/graph_display_card_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="64dp"
+    android:background="#03A9F4">
+
+    <LinearLayout
+        android:id="@+id/graph_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <Button
+            android:id="@+id/close_graph_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#DF2A1C"
+            android:padding="8dp"
+            android:text="@string/close_graph_button_name"
+            android:textColor="@color/TextColor" />
+
+        <TextView
+            android:id="@+id/roll_display"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/average_display"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/standard_deviation_display"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/distribution_recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+        <TextView
+            android:id="@+id/chance_to_roll_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chance_to_roll_text"
+            android:textSize="18sp" />
+
+        <!--        <LinearLayout-->
+        <!--            android:id="@+id/chance_to_roll_layout"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="match_parent"-->
+        <!--            android:orientation="horizontal" />-->
+
+        <!--        <com.github.mikephil.charting.charts.HorizontalBarChart-->
+        <!--            android:id="@+id/graph_dice_distribution"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="match_parent" >-->
+
+        <!--        </com.github.mikephil.charting.charts.HorizontalBarChart>-->
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

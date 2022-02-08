@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="EVALUATE_Button_Color">#009688</color>
+    <color name="CLEAR_Button_Color">#6F7ABA</color>
+    <color name="NUMBER_Button_Color">#2E2D2D</color>
+    <color name="OPERATOR_Button_Color">#CD37ACE1</color>
+    <color name="GRAPH_Button_Color">#8BC34A</color>
+    <color name="ERASE_Button_Color">#2D3A39</color>
+    <color name="DICE_Button_Color">#800C8495</color>
+
+    <color name="TextColor">#FFFFFFFF</color>
+    <color name="WARNING_TEXT_COLOR">#F12819</color>
+
+
+    <color name="Screen_Color">#323232</color>
+    <color name="background_Recycler_View_Color">#282828</color>
+</resources>

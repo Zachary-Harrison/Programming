@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final_Project</string>
+    <string name="close_graph_button_name">Close</string>
+    <string name="graph_display_title_name">Distribution</string>
+    <string name="chance_to_roll_text">Chance to roll:</string>
+    <string name="in_between_text">inbetween</string>
+
+</resources>

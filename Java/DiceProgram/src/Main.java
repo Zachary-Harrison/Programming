@@ -36,7 +36,7 @@ public class Main {
         int[] XSum = new int[numOfSides * (numOfDice - (dropLowest + dropHighest))];
         int combTotal = 0;
         int sum = 0;
-        int[] sumSum = new int[numOfSides*(numOfDice-1)- (numOfDice-(dropLowest+dropHighest)) + 1 ];
+        int[] sumSum = new int[numOfSides*(numOfDice-1)- (numOfDice-(dropLowest+dropHighest)) + 1];
         Combinations combinations = new Combinations(numOfDice, numOfSides);
         while (combinations.keepGoing) {
             for (int num :combinations.getCombinations(dropLowest, dropHighest)) {
