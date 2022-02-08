@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="885d2184-60a6-4f80-91dc-1fc80e8cbf12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DiceProgram/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Comb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python/ProbabilityVerification/.idea/ProbabilityVerification.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python/SurgeDC_Probability/.idea/SurgeDC_Probability.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DiceProgram/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DiceProgram/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProbabilityMethods/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProbabilityMethods/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProbabilityMethods/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProbabilityMethods/ProbabilityMethods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProbabilityMethods/out/production/ProbabilityMethods/Combinations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProbabilityMethods/src/Combinations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
